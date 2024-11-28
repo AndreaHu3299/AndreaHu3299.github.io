@@ -5,7 +5,9 @@ title: Making PPT
 
 Tools:
 
-- [Audiveris](https://audiveris.github.io/audiveris/_pages/install/README/)
+- Audiveris
+  - [Instructions](https://audiveris.github.io/audiveris/_pages/install/README/)
+  - [Download page](https://github.com/Audiveris/audiveris/releases)
 - [Musescore 4](https://musescore.org/en/download)
 - Photo editing software (just to do invert action to turn black to white)
 
