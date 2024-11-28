@@ -1,6 +1,6 @@
 # Dependencies
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Permalinks
 # permalink: pretty
@@ -10,12 +10,12 @@ highlighter: pygments
 title: "Andrea Hu's Blog"
 tagline: 'Handy Andy, does it all!'
 description: 'Your friendly tech support neighbor.'
-url: http://hyde.getpoole.com
+url: http://AndreaHu3299.github.io
 baseurl: /
 
 author:
   name: 'Andrea Hu'
-  url: https://twitter.com/mdo
+  url: http://AndreaHu3299.github.io
 
 paginate: 5
 
