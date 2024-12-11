@@ -4,6 +4,6 @@ items:
   - name: About
     link: /about.html
   - name: Blog
-    link: /blog.html
+    link: /blog
   - name: Tutorials
-    link: /tutorials.html
+    link: /tutorials
