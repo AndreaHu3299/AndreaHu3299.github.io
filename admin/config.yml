@@ -8,6 +8,7 @@ collections:
     folder: '_tutorials/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    output: true
     editor:
       preview: true
     fields:

@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Making PPT
+layout: post
+title: Making PPT with standard notation
+date: 2024-12-11T00:35:00.000Z
 ---
 
 Tools:
