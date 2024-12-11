@@ -9,8 +9,7 @@ This tutorial will teach you how to add your preferred bible versions to 精读�
 
 #### Table of contents
 
-[Installing 精读圣经](#installing-精读圣经)
-
+* [Installing 精读圣经](#installing-精读圣经)
 * [Adding bible versions](#adding-bible-versions)
 
   * [Android](#android)
